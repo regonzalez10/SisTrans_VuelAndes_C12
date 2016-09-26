@@ -1,4 +1,2 @@
-
-Link Tutorial:
-
-https://www.iit.bme.hu/~soi/Rest_HelloWorld_Tutorial.pdf
+Falta La herencia de tipo de aviones
+Falta toda la parte de usuarios y carga actualizada
