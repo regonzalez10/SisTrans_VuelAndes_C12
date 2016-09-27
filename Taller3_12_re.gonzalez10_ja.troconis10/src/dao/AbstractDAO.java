@@ -9,12 +9,12 @@ public abstract class AbstractDAO {
 	/**
 	 * Arraylits de recursos que se usan para la ejecución de sentencias SQL
 	 */
-	private ArrayList<Object> recursos;
+	protected ArrayList<Object> recursos;
 
 	/**
 	 * Atributo que genera la conexión a la base de datos
 	 */
-	private Connection conn;
+	protected Connection conn;
 
 	/**
 	 * Método constructor que crea DAOVideo
