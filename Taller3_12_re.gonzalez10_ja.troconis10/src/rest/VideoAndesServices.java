@@ -12,7 +12,7 @@ import javax.ws.rs.core.Context;
 import javax.ws.rs.core.MediaType;
 import javax.ws.rs.core.Response;
 
-import fachada.VideoAndesFachada;
+import master.VideoAndesFachada;
 import vos.Video;
 
 @Path("services")
